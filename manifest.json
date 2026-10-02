@@ -1,0 +1,33 @@
+{
+  "version": "2.0-master-reference",
+  "reference": "40579F58-752C-481E-92C3-AF9E6A144232(1).jpeg",
+  "terrain": [
+    "sidewalk_tile.png",
+    "road_tile.png",
+    "crosswalk_tile.png"
+  ],
+  "buildings": [
+    "room_front.png",
+    "cafe_front.png",
+    "pho_front.png",
+    "market_front.png",
+    "bus_front.png"
+  ],
+  "characters": [
+    "char_player_male.png",
+    "char_huong.png",
+    "char_khoa.png",
+    "char_nga.png",
+    "char_viet.png",
+    "char_shipper.png"
+  ],
+  "rules": {
+    "dense_facades": true,
+    "shared_scale": true,
+    "separate_runtime_entities": true,
+    "no_full_scene_background": true,
+    "npc_avoidance": true,
+    "proximity_dialogue": true,
+    "npc_to_npc_dialogue": true
+  }
+}
